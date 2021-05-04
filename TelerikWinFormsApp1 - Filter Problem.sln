@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikWinFormsApp1___Filter_Problem", "TelerikWinFormsApp1 - Filter Problem\TelerikWinFormsApp1___Filter_Problem.csproj", "{1426635A-1FE4-49FA-9753-128751E1E33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1426635A-1FE4-49FA-9753-128751E1E33E}.Debug|x86.ActiveCfg = Debug|x86
+		{1426635A-1FE4-49FA-9753-128751E1E33E}.Debug|x86.Build.0 = Debug|x86
+		{1426635A-1FE4-49FA-9753-128751E1E33E}.Release|x86.ActiveCfg = Release|x86
+		{1426635A-1FE4-49FA-9753-128751E1E33E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CFD2B1-31E3-48B4-B2D2-794A42DC2211}
+	EndGlobalSection
+EndGlobal
